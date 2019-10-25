@@ -8,6 +8,6 @@ Originally created by Sebasto Vigna, SplitMix64 is based on SplittableRandom in 
 
 Useful references : 
 
-http://xorshift.di.unimi.it/splitmix64.c
-https://docs.oracle.com/javase/8/docs/api/java/util/SplittableRandom.html
+http://xorshift.di.unimi.it/splitmix64.c  
+https://docs.oracle.com/javase/8/docs/api/java/util/SplittableRandom.html  
 https://github.com/lemire/testingRNG 
